@@ -1,0 +1,39 @@
+package ders4;
+
+import java.util.Scanner;
+
+public class Ders4 {
+	
+	public static void main(String[] args)
+	{
+ /* çoklu yorum
+  * satýrý için 
+  * bu kod kullanýlýr
+  * 
+  */
+		Scanner tara = new Scanner(System.in);
+		
+		int taranacak;
+		
+		{		
+		System.out.print("Sayý gir:");
+		taranacak = tara.nextInt();
+		
+			
+		System.out.print(taranacak);
+	     }
+		Scanner tara2 = new Scanner(System.in);
+
+		String yazi;
+		System.out.println("Yazý Y"
+				+ "azýnýz:");
+		
+		
+		yazi = tara2.nextLine();
+		
+		System.out.print("Bunu Yazdýn: " + yazi);
+		
+		
+  }
+}
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;ders37/src/ders37&apos;&#x0D;&#x0A;- Original project: &apos;ders36&apos;&#x0D;&#x0A;- Destination element: &apos;ders37/src/ders37&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ders36.KarePencere.java&#x0D;&#x0A;     ders36.PencereDene.java" description="Copy compilation units" destination="=ders37/src&lt;ders37" element1="/src&lt;ders36{KarePencere.java" element2="/src&lt;ders36{PencereDene.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1469377813546" units="2" version="1.0"/>
+</session>

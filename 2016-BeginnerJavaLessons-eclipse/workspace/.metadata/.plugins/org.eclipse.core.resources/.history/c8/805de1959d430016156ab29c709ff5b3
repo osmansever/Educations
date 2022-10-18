@@ -1,0 +1,24 @@
+package ders4;
+
+import java.util.Scanner;
+
+public class Ders4 {
+	
+	public static void main(String[] args)
+	{
+ /* çoklu yorum
+  * satýrý için 
+  * bu kod kullanýlýr
+  * 
+  */
+		Scanner oku = new Scanner(System.in);
+		
+		int taranacak;
+		
+				
+		taranacak = oku.nextInt();
+		System.out.println(taranacak);
+		
+  }
+}
+
