@@ -9,15 +9,15 @@ public class Class {
 		
 		if ( a == b)
 		{
-			System.out.println("Bunlar Eþit");
+			System.out.println("Bunlar Eï¿½it");
 		}
 		else
 		{
-			System.out.println("Ýmam hatipler kapatýlsýn");
+			System.out.println("Baska bi mesaj");
 		}
 		if ( a != b)
 		{
-			System.out.println("Bunlar Eþit Deðil");
+			System.out.println("Bunlar Eï¿½it Deï¿½il");
 		}
 	       
 		} 
