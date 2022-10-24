@@ -12,9 +12,9 @@ public class Ders8 {
 		i4.biriniselamla(i3.getIsim());
 		
 		
-		i3.biriniselamlav2(i4); // Burada parantez içine bir insan objesi girilmeli string değer girilemez.
+		i3.biriniselamlav2(i4); // Burada parantez iÃ§ine bir insan objesi girilmeli string deÄŸer girilemez.
 		
-		System.out.println("Hadi gel oyun oynayalım :):):):)"  + i3.getIsim());
+		System.out.println("Hadi gel oyun oynayalÄ±m :):):):)"  + i3.getIsim());
 
 	}
 	
