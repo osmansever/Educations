@@ -14,7 +14,7 @@ public class Ders8 {
 		
 		i3.biriniselamlav2(i4); // Burada parantez içine bir insan objesi girilmeli string deðer girilemez.
 		
-		System.out.println("Hadi gel yiyiþelim :):):):)"  + i3.getIsim());
+		System.out.println("Hadi gel oyun oynayalým :):):):)"  + i3.getIsim());
 
 	}
 	
